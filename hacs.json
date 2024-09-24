@@ -2,6 +2,7 @@
   "name": "MyHome",
   "zip_release": true,
   "filename": "myhome.zip",
+  "hide_default_branch": true,
   "render_readme": true,
   "country": [
     "EN",
